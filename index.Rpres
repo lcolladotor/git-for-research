@@ -1,0 +1,33 @@
+Git for research
+========================================================
+author: L. Collado-Torres
+date: 2014-04-03
+font-import: http://fonts.googleapis.com/css?family=Gilda+Display
+font-family: 'Gilda Display'
+
+
+
+
+
+How do you version control?
+========================================================
+
+- Do nothing, hope for the best!
+- Mark them as old, new
+- Store them in a different directory
+- Append a \_v1, \_v2, etc to the file name
+- Add the date, for example: 2012\_9\_11\_class.pdf
+- Use Dropbox, Google Drive, Google Docs or something else to manage the files.
+
+Why use a version control system?
+=================================
+
+- Good organization can save a lot of time!
+- Clean directory
+- Best for collaborating with others: specially if you are working on the same file
+- Good project development practice
+- Helps share & reproduce
+
+
+
+
